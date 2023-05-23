@@ -28,9 +28,9 @@ To download source code (Unreal Engine project):
 ![Image 5](imgs/App5.png)  
 ![Image 6](imgs/App6.png)
 
-## Video showcase
+## Video showcase (link leads to YT)
 
-[![Video Title](http://img.youtube.com/vi/5gT3YxdKROA/0.jpg)](https://www.youtube.com/watch?v=5gT3YxdKROA)
+[![Preview video](http://img.youtube.com/vi/5gT3YxdKROA/0.jpg)](https://www.youtube.com/watch?v=5gT3YxdKROA)
 
 ## Control Scheme
 
