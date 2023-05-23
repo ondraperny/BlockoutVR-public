@@ -1,6 +1,6 @@
 # BlockoutVR
 
-BlockoutVR is a prototype application designed to simplify the process of creating level blockouts in virtual reality (VR).
+BlockoutVR is a prototype application designed to simplify the process of creating level blockouts in virtual reality (VR). The BlockoutVR project was created using the Unreal Engine 5, utilizing both C++ and Blueprints system for development. 
 
 ## Features
 
